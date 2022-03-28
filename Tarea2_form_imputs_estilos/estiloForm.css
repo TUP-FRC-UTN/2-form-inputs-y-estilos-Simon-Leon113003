@@ -1,0 +1,39 @@
+h1{
+    color: #ffebcd;
+    font-size:40px;
+  
+   
+
+}
+.padre{
+    background-color: #3A3845;
+    margin-left: 10px;
+    margin-right: 200px;
+    padding: 15px;
+    display: flex;
+    
+}
+.fondo_cuerpo{
+    background-color: #F10086;
+}
+.fuente{
+    color: aliceblue;
+}
+label{
+    color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    font: bold;
+}
+img{
+    margin-left: 0%;
+    width: 80%;height: 50%;
+}
+div{
+    width: 70%;
+    margin-bottom: 10%;
+    
+}
+input{ width: 200px; }
+
+
